@@ -31,7 +31,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": []
-    }
+    },
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
